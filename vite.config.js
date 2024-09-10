@@ -9,7 +9,7 @@ export default defineConfig({
       "@": "/src",
       "@pages": "/src/pages",
       "@components": "/src/components",
-      "@images": "/src/assets/images",
+      "@assets": "/src/assets",
     },
   },
 });
