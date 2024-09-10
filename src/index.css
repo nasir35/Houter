@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  @apply font-medium px-6 py-2 rounded-md cursor-pointer;
+}
+.btn-primary {
+  @apply bg-[#10B981] text-white;
+}
+.btn-neutral {
+  @apply bg-[#E0E3EB] text-[#3C4563];
+}
